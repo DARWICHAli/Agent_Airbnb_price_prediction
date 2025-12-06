@@ -1,0 +1,50 @@
+# configs/base.yaml
+seed: 42
+city: paris
+data:
+  base_url: "https://insideairbnb.com/get-the-data.html"
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  required_columns:
+    - id
+    - name
+    - host_response_time
+    - neighbourhood
+    - latitude
+    - longitude
+    - room_type
+    - price
+    - minimum_nights
+    - number_of_reviews
+    - reviews_per_month
+    - availability_365
+split:
+  train: 0.7
+  val: 0.15
+  test: 0.10
+  holdout_seed: 999
+preprocessing:
+  price_col: price
+  price_currency: "USD"  # informational
+  fill_numeric: "median"
+  fill_categorical: "mode"
+training:
+  target: price
+  metric: rmse
+  xgboost:
+    params:
+      n_estimators: 500
+      max_depth: 6
+      learning_rate: 0.05
+      random_state: 42
+  random_forest:
+    n_estimators: 200
+    random_state: 42
+  tabpfn:
+    use_tabpfn: true
+experiment:
+  mlflow_tracking_uri: "sqlite:///mlflow.db"
+  experiment_name: "airbnb_price"
+output:
+  artifacts_dir: "artifacts"
+  reports_dir: "reports"
