@@ -1,6 +1,6 @@
 # src/evaluate.py
 import argparse, os, joblib, pandas as pd
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from sklearn.metrics import mean_absolute_error, r2_score,root_mean_squared_error
 import shap
 import yaml
 import numpy as np
@@ -59,7 +59,7 @@ if __name__ == "__main__":
     print("Chosen model:", chosen)
     model = joblib.load(chosen)
     preds = model.predict(X_hold)
-    rmse = mean_squared_error(y_hold, preds, squared=False)
+    rmse = root_mean_squared_error(y_hold, preds)
     mae = mean_absolute_error(y_hold, preds)
     r2 = r2_score(y_hold, preds)
     res = {"rmse": rmse, "mae": mae, "r2": r2}
