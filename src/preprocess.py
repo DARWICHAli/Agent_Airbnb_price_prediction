@@ -17,10 +17,23 @@ def basic_clean(df, cfg):
     # keep only required columns present
     req = [c for c in cfg["data"]["required_columns"] if c in df.columns]
     df = df[req].copy()
+    today = pd.Timestamp.today()
     # convert numeric columns
     for c in df.select_dtypes(include=["object"]).columns:
         if c in ["latitude", "longitude"]:
             df[c] = pd.to_numeric(df[c], errors="coerce")
+        if c == "host_since":
+            df[c] = pd.to_datetime(df[c], errors="coerce")
+            df["host_months_since"] = (today.year - df[c].dt.year) * 12 + (today.month - df[c].dt.month)
+            df[c] = df[c].astype('int64')
+        if c in ["host_response_rate", "host_acceptance_rate"]:
+            df[c] = df[c].str.rstrip('%')
+            df[c] = pd.to_numeric(df[c], errors="coerce") / 100.0
+        if c in ["host_is_superhost","instant_bookable",""]:
+            df[c] = df[c].map({'t':1, 'f':0})
+        if c in ["host_response_time","host_neighbourhood","property_type","room_type"]:
+            df[c] = df[c].astype(str)
+
     # basic imputation
     num_cols = df.select_dtypes(include=[np.number]).columns.tolist()
     cat_cols = [c for c in df.columns if c not in num_cols]
