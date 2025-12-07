@@ -18,20 +18,20 @@ def run_stage(stage, city):
         subprocess.check_call(["python","-u","src/evaluate.py","--city",city])
     if stage in ("all","report","generate_report"):
         # build a markdown report from templates + artifacts
-        template_md = """
+        template_md = f"""
 # Airbnb Price Prediction Report - {{city}}
 
 ## Executive summary
-- City: {{city}}
+- City: {city}
 
 ## Data
 - Source: InsideAirbnb (latest available snapshot). See: https://insideairbnb.com/get-the-data/
 
 ## EDA
-![price_dist](artifacts/figures/price_dist.png)
+![price_dist](artifacts/figures/{city}/price_dist.png)
 
 ## Models & Results
-- Holdout results: see `artifacts/holdout_results.csv`
+- Holdout results: see `artifacts/{city}/holdout_results.csv`
 
 ## Recommendations
 - (auto-generated)
