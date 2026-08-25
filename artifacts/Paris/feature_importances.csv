@@ -1,0 +1,83 @@
+,0
+bathrooms,0.19312505
+accommodates,0.08367767
+bedrooms,0.078242615
+availability_90,0.061157305
+minimum_nights,0.04937557
+property_type_Room in boutique hotel,0.044206526
+room_type_Entire home/apt,0.04332649
+property_type_Private room in rental unit,0.027667033
+property_type_Room in hotel,0.026397672
+room_type_Private room,0.026090993
+host_listings_count,0.024298497
+review_scores_rating,0.02240241
+longitude,0.022214407
+latitude,0.021822555
+availability_30,0.021768685
+availability_60,0.020956164
+availability_365,0.018939264
+number_of_reviews,0.01796597
+property_type_Entire villa,0.016575385
+property_type_Entire rental unit,0.015304762
+maximum_nights,0.012264518
+beds,0.012063055
+reviews_per_month,0.011899191
+property_type_Entire condo,0.011064361
+host_is_superhost,0.009552541
+room_type_Hotel room,0.009538558
+property_type_Entire vacation home,0.008135679
+property_type_Private room in bed and breakfast,0.007560823
+property_type_Entire home,0.00746709
+property_type_Entire loft,0.0071668895
+property_type_Entire townhouse,0.0067066294
+property_type_Private room in guest suite,0.0062502804
+property_type_Room in serviced apartment,0.0061019547
+property_type_Room in aparthotel,0.005122278
+property_type_Casa particular,0.005003997
+property_type_Entire place,0.004973016
+room_type_Shared room,0.0044825254
+property_type_Private room in loft,0.003676506
+property_type_Entire serviced apartment,0.0033885892
+property_type_Private room in boat,0.003291833
+property_type_Private room in hostel,0.0029432331
+property_type_Private room in serviced apartment,0.0029220912
+property_type_Private room in houseboat,0.0022954303
+property_type_Shared room in rental unit,0.0021710778
+property_type_Private room in home,0.0019309452
+property_type_Private room in condo,0.0018613981
+property_type_Private room,0.0018498572
+property_type_Entire guest suite,0.0014933385
+property_type_Private room in guesthouse,0.0010538273
+property_type_Shared room in hotel,0.00025342294
+host_neighbourhood,0.0
+host_acceptance_rate,0.0
+host_response_rate,0.0
+host_total_listings_count,0.0
+host_since,0.0
+host_response_time,0.0
+property_type_Private room in casa particular,0.0
+property_type_Houseboat,0.0
+property_type_Earthen home,0.0
+property_type_Boat,0.0
+instant_bookable,0.0
+property_type_Barn,0.0
+property_type_Entire hostel,0.0
+property_type_Castle,0.0
+property_type_Entire guesthouse,0.0
+property_type_Entire home/apt,0.0
+property_type_Private room in earthen home,0.0
+property_type_Private room in cave,0.0
+property_type_Room in bed and breakfast,0.0
+property_type_Religious building,0.0
+property_type_Private room in townhouse,0.0
+property_type_Private room in nature lodge,0.0
+property_type_Private room in vacation home,0.0
+property_type_Private room in villa,0.0
+property_type_Shared room in hostel,0.0
+property_type_Shared room in guesthouse,0.0
+property_type_Shared room in condo,0.0
+property_type_Shared room in boutique hotel,0.0
+property_type_Shared room in bed and breakfast,0.0
+property_type_Tower,0.0
+property_type_Shared room in loft,0.0
+property_type_Tiny home,0.0
