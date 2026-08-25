@@ -1,0 +1,9 @@
+,accommodates,bedrooms,bathrooms,room_type,property_type,actual_price,predicted_price,abs_error,pct_error
+827,2,1.0,1.0,Entire home/apt,Entire rental unit,50.0,50.0,0.0,0.3
+855,6,2.0,2.0,Entire home/apt,Entire condo,222.0,345.0,123.0,55.2
+6163,4,2.0,2.0,Entire home/apt,Entire rental unit,136.0,210.0,74.0,54.0
+1411,4,1.0,1.0,Entire home/apt,Entire rental unit,112.0,117.0,6.0,5.2
+2130,7,3.0,1.0,Entire home/apt,Entire townhouse,170.0,155.0,14.0,8.5
+6236,4,1.0,1.0,Entire home/apt,Entire rental unit,88.0,101.0,13.0,14.6
+5815,4,2.0,1.0,Entire home/apt,Entire rental unit,326.0,161.0,165.0,50.6
+1779,2,1.0,1.0,Entire home/apt,Entire rental unit,124.0,112.0,12.0,9.6

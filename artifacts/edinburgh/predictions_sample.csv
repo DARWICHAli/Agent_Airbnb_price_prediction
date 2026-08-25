@@ -1,0 +1,9 @@
+,accommodates,bedrooms,bathrooms,room_type,property_type,actual_price,predicted_price,abs_error,pct_error
+4015,10,4.0,3.5,Entire home/apt,Entire home,275.0,552.0,277.0,100.8
+627,2,1.0,1.0,Private room,Private room in rental unit,120.0,91.0,29.0,23.8
+31,5,2.0,1.0,Entire home/apt,Entire rental unit,228.0,234.0,6.0,2.5
+1870,2,1.0,1.0,Entire home/apt,Entire rental unit,178.0,170.0,8.0,4.5
+3557,2,1.0,1.0,Private room,Private room in rental unit,87.0,74.0,13.0,15.4
+2501,2,1.0,1.0,Entire home/apt,Entire home,190.0,205.0,15.0,8.0
+4385,6,2.0,2.0,Entire home/apt,Entire rental unit,206.0,211.0,5.0,2.4
+3151,2,1.0,1.0,Private room,Private room in townhouse,104.0,87.0,17.0,16.3

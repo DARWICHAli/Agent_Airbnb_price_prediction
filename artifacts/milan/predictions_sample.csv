@@ -1,0 +1,9 @@
+,accommodates,bedrooms,bathrooms,room_type,property_type,actual_price,predicted_price,abs_error,pct_error
+5946,2,1.0,1.0,Private room,Private room in vacation home,155.0,160.0,5.0,3.5
+21963,5,2.0,1.5,Entire home/apt,Entire rental unit,127.0,151.0,24.0,18.7
+20182,3,1.0,1.0,Entire home/apt,Entire condo,78.0,124.0,46.0,59.6
+15309,2,1.0,1.0,Entire home/apt,Entire rental unit,97.0,137.0,40.0,41.1
+20031,2,1.0,1.0,Entire home/apt,Entire rental unit,1009.0,1016.0,7.0,0.7
+2156,2,1.0,1.0,Entire home/apt,Entire rental unit,76.0,87.0,11.0,14.9
+5936,2,1.0,1.0,Entire home/apt,Entire serviced apartment,131.0,135.0,4.0,2.9
+16302,4,1.0,1.0,Entire home/apt,Entire home,89.0,88.0,1.0,1.0

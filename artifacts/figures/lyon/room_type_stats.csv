@@ -1,0 +1,5 @@
+room_type,count,mean,median,min,max
+Hotel room,17,279.43,201.0,152.0,568.37
+Entire home/apt,4498,137.6,113.0,4.58,568.37
+Private room,894,76.92,61.98,11.44,568.37
+Shared room,18,35.01,31.2,26.0,58.0
