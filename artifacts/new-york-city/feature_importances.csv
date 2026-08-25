@@ -1,0 +1,498 @@
+,0
+room_type_Hotel room,0.3995621
+host_response_time_within an hour,0.13419712
+host_neighbourhood_Gateway District,0.08400927
+host_neighbourhood_Central Business District,0.04855578
+host_months_since,0.026840074
+host_neighbourhood_Airport North,0.02548231
+property_type_Room in hotel,0.022455439
+beds,0.02123508
+host_neighbourhood_Clearwater Beach,0.018533828
+minimum_nights,0.01844532
+room_type_Private room,0.01715791
+host_listings_count,0.013741188
+host_neighbourhood_Hollywood South Central Beach,0.011129746
+number_of_reviews,0.010777236
+host_neighbourhood_Brush / Stewarts,0.009397577
+availability_30,0.00930373
+host_total_listings_count,0.009253948
+host_response_rate,0.008823557
+property_type_Room in boutique hotel,0.0075254003
+maximum_nights,0.007232186
+longitude,0.0061989953
+room_type_Entire home/apt,0.005766197
+host_neighbourhood_North Beach,0.0056229285
+review_scores_rating,0.005498724
+host_neighbourhood_Sturbridge,0.0051834807
+host_acceptance_rate,0.0048816013
+availability_365,0.0046402053
+host_response_time_within a day,0.0043036113
+reviews_per_month,0.0040922035
+latitude,0.004063402
+availability_60,0.003768839
+property_type_Tower,0.003721826
+host_neighbourhood_Downtown Jersey City,0.0037035977
+host_neighbourhood_Southwest Orlando,0.0034633186
+availability_90,0.0033063618
+accommodates,0.0031049142
+bathrooms,0.0023700283
+instant_bookable,0.0022153119
+property_type_Private room in rental unit,0.001788474
+host_neighbourhood_Mid-Beach,0.001564314
+host_neighbourhood_Midtown East,0.0014673481
+host_neighbourhood_Remsenburg,0.0014153443
+host_neighbourhood_nan,0.0011892171
+host_neighbourhood_Foxhurst,0.0011702926
+property_type_Private room,0.0011335931
+bedrooms,0.0010707545
+host_neighbourhood_Jumeirah Beach Residence,0.0010544718
+host_response_time_nan,0.00095478096
+host_response_time_within a few hours,0.0009516155
+host_neighbourhood_Upper West Side,0.0009096987
+host_is_superhost,0.00067073776
+host_neighbourhood_Murray Hill,0.00050649344
+property_type_Entire townhouse,0.0003739472
+property_type_Private room in resort,0.0003708739
+property_type_Entire condo,0.00034706917
+host_neighbourhood_Greenpoint,0.00034553773
+host_neighbourhood_Eastside Promise Neighborhood,0.00028578495
+property_type_Houseboat,0.00027489415
+property_type_Shared room in condo,0.00026574152
+host_neighbourhood_Glendale,0.0002590363
+host_neighbourhood_Midtown,0.0002458049
+host_neighbourhood_Boerum Hill,0.00024366738
+property_type_Entire loft,0.00024167387
+host_neighbourhood_Gramercy Park,0.00020370948
+property_type_Entire serviced apartment,0.0001999338
+host_neighbourhood_Chelsea,0.00019920306
+host_neighbourhood_Ocean Hill,0.00015639173
+host_neighbourhood_Gowanus,0.00014597483
+property_type_Entire guest suite,0.00012931782
+host_neighbourhood_Miami Beach,0.00012011325
+host_neighbourhood_West Village,0.00010100328
+host_neighbourhood_The Rockaways,7.880488e-05
+host_neighbourhood_Santa Monica,0.0
+host_neighbourhood_Setagaya District,0.0
+host_neighbourhood_Shaw,0.0
+host_neighbourhood_Sheepshead Bay,0.0
+host_neighbourhood_Sheldon Charter Oak,0.0
+host_neighbourhood_Sheridan Hollow,0.0
+host_neighbourhood_Shore Acres,0.0
+host_neighbourhood_Shoreditch,0.0
+host_neighbourhood_Silver Lake,0.0
+host_neighbourhood_Singing Hills,0.0
+host_neighbourhood_Smallwood,0.0
+host_neighbourhood_SoMa,0.0
+host_neighbourhood_Soho,0.0
+host_neighbourhood_Soundview,0.0
+host_neighbourhood_South Beach,0.0
+host_neighbourhood_Richmond,0.0
+host_neighbourhood_Richmond Hill,0.0
+host_neighbourhood_Ridgewood,0.0
+host_neighbourhood_Riverdale,0.0
+host_neighbourhood_Riverwest,0.0
+host_neighbourhood_Rockaway Beach,0.0
+host_neighbourhood_Roma Norte,0.0
+host_neighbourhood_Seagate,0.0
+host_neighbourhood_Suan Luang,0.0
+host_neighbourhood_Sunnyside,0.0
+host_neighbourhood_Sunset Park,0.0
+host_neighbourhood_São Paulo,0.0
+host_neighbourhood_Table Rock,0.0
+host_neighbourhood_Tenderloin,0.0
+host_neighbourhood_The Flats,0.0
+host_neighbourhood_The Heights,0.0
+host_neighbourhood_Throgs Neck,0.0
+property_type_Private room in hostel,0.0
+host_neighbourhood_South Ironbound,0.0
+host_neighbourhood_South Los Angeles,0.0
+host_neighbourhood_Rockaway Park,0.0
+host_neighbourhood_South Richmond Hill,0.0
+host_neighbourhood_South Side,0.0
+host_neighbourhood_South Slope,0.0
+host_neighbourhood_Southcrest Park Estates,0.0
+host_neighbourhood_Southeast Annadale,0.0
+host_neighbourhood_Southeast Magnolia,0.0
+host_neighbourhood_Southside,0.0
+host_neighbourhood_Southwest Hills,0.0
+host_neighbourhood_Spring Creek,0.0
+host_neighbourhood_Springfield Gardens,0.0
+host_neighbourhood_Spuyten Duyvil,0.0
+host_neighbourhood_St Kilda East,0.0
+host_neighbourhood_South Ozone Park,0.0
+host_neighbourhood_Pacific Heights,0.0
+host_neighbourhood_Park Hill,0.0
+host_neighbourhood_Park Slope,0.0
+host_neighbourhood_Parkchester,0.0
+host_neighbourhood_Paso Real,0.0
+host_neighbourhood_Pelham Bay,0.0
+host_neighbourhood_Pelham Gardens,0.0
+host_neighbourhood_Pennington Bend,0.0
+host_neighbourhood_Pennsport,0.0
+host_neighbourhood_Pentagon City,0.0
+host_neighbourhood_Pine Hills,0.0
+host_neighbourhood_Playa Guiones Norte,0.0
+host_neighbourhood_Roma Norte ,0.0
+host_neighbourhood_North City,0.0
+host_neighbourhood_North End,0.0
+host_neighbourhood_North Fork,0.0
+host_neighbourhood_North Philadelphia,0.0
+host_neighbourhood_North Riverdale,0.0
+host_neighbourhood_Northeast Washington,0.0
+host_neighbourhood_Northwest Washington,0.0
+host_neighbourhood_Norwood,0.0
+host_neighbourhood_Oakdale South,0.0
+host_neighbourhood_Oakland,0.0
+host_neighbourhood_Oakland Gardens,0.0
+host_neighbourhood_Oakwood,0.0
+host_neighbourhood_Old Allentown,0.0
+host_neighbourhood_Nolita,0.0
+host_neighbourhood_Stuyvesant Heights,0.0
+host_neighbourhood_Roosevelt Island,0.0
+host_neighbourhood_Rosebank,0.0
+host_neighbourhood_Rosedale,0.0
+host_neighbourhood_Rossville,0.0
+host_neighbourhood_Sabino Vista Hills,0.0
+host_neighbourhood_Saint-Germain-des-Prés - Odéon,0.0
+host_neighbourhood_San Giovanni,0.0
+host_neighbourhood_Playa Negra,0.0
+host_neighbourhood_Pocono Lake,0.0
+host_neighbourhood_Point Loma Heights,0.0
+host_neighbourhood_Port Morris,0.0
+host_neighbourhood_Pacific Beach,0.0
+host_neighbourhood_Prince's Bay,0.0
+host_neighbourhood_Prospect Heights,0.0
+host_neighbourhood_Prospect Lefferts Gardens,0.0
+host_neighbourhood_Queens Village,0.0
+host_neighbourhood_Randall Manor,0.0
+host_neighbourhood_Rathfarnham,0.0
+host_neighbourhood_Red Hook,0.0
+host_neighbourhood_Rego Park,0.0
+host_neighbourhood_Reunion,0.0
+host_neighbourhood_Rhinecliff,0.0
+host_neighbourhood_Old Greenwich,0.0
+host_neighbourhood_Overtown,0.0
+host_neighbourhood_Ozone Park,0.0
+host_neighbourhood_Port Richmond,0.0
+host_neighbourhood_Wynwood,0.0
+host_neighbourhood_Yorkville,0.0
+host_neighbourhood_Zona Romántica,0.0
+property_type_Barn,0.0
+property_type_Private room in ranch,0.0
+property_type_Boat,0.0
+property_type_Camper/RV,0.0
+property_type_Casa particular,0.0
+property_type_Entire bungalow,0.0
+property_type_Entire cottage,0.0
+property_type_Entire guesthouse,0.0
+property_type_Entire home,0.0
+host_neighbourhood_Stapleton Heights,0.0
+host_neighbourhood_West River,0.0
+host_neighbourhood_Antioch,0.0
+host_neighbourhood_Arden Heights,0.0
+host_neighbourhood_Arlington Park,0.0
+host_neighbourhood_Arrochar,0.0
+host_neighbourhood_Arverne,0.0
+host_neighbourhood_Astoria,0.0
+host_neighbourhood_Banani,0.0
+host_neighbourhood_Barra da Tijuca,0.0
+host_neighbourhood_Bath Beach,0.0
+host_neighbourhood_Battery Park City,0.0
+host_neighbourhood_Bay Ridge,0.0
+property_type_Private room in loft,0.0
+property_type_Private room in tiny home,0.0
+property_type_Private room in townhouse,0.0
+property_type_Private room in vacation home,0.0
+property_type_Private room in villa,0.0
+property_type_Room in aparthotel,0.0
+property_type_Room in bed and breakfast,0.0
+property_type_Entire place,0.0
+host_response_time_a few days or more,0.0
+host_neighbourhood_Addisleigh Park,0.0
+property_type_Private room in guesthouse,0.0
+host_neighbourhood_Cabo Branco,0.0
+host_neighbourhood_Allerton,0.0
+host_neighbourhood_Woodstock,0.0
+room_type_Shared room,0.0
+property_type_Entire rental unit,0.0
+property_type_Private room in serviced apartment,0.0
+property_type_Entire vacation home,0.0
+property_type_Entire villa,0.0
+property_type_Private room in bed and breakfast,0.0
+property_type_Private room in bungalow,0.0
+property_type_Private room in camper/rv,0.0
+property_type_Private room in casa particular,0.0
+property_type_Private room in condo,0.0
+property_type_Private room in earthen home,0.0
+property_type_Private room in guest suite,0.0
+property_type_Shared room in townhouse,0.0
+host_neighbourhood_Alphabet City,0.0
+host_neighbourhood_West Brighton,0.0
+host_neighbourhood_West Bronx,0.0
+host_neighbourhood_West Cornwall,0.0
+host_neighbourhood_West Dallas,0.0
+host_neighbourhood_West Farms,0.0
+host_neighbourhood_West Los Angeles,0.0
+host_neighbourhood_Times Square,0.0
+host_neighbourhood_Times Square/Theatre District,0.0
+host_neighbourhood_Todt Hill,0.0
+host_neighbourhood_Tompkinsville,0.0
+host_neighbourhood_Tottenville,0.0
+host_neighbourhood_Townlands,0.0
+host_neighbourhood_Baychester,0.0
+host_neighbourhood_Tremont,0.0
+host_neighbourhood_Tribeca,0.0
+host_neighbourhood_Truxton Circle,0.0
+host_neighbourhood_Union Square,0.0
+host_neighbourhood_University City,0.0
+host_neighbourhood_University Heights,0.0
+host_neighbourhood_Upper East Side,0.0
+host_neighbourhood_Utopia,0.0
+host_neighbourhood_St. Albans,0.0
+property_type_Private room in kezhan,0.0
+host_neighbourhood_St. George,0.0
+host_neighbourhood_Stapleton,0.0
+host_neighbourhood_Travis - Chelsea,0.0
+host_neighbourhood_Bayside,0.0
+host_neighbourhood_Bedford-Stuyvesant,0.0
+host_neighbourhood_Bel-Air,0.0
+host_neighbourhood_West Side,0.0
+host_neighbourhood_West Town/Noble Square,0.0
+host_neighbourhood_Westchester Square,0.0
+host_neighbourhood_Westchester Village,0.0
+host_neighbourhood_Westerleigh,0.0
+host_neighbourhood_Westside,0.0
+host_neighbourhood_Whitestone,0.0
+host_neighbourhood_Williamsbridge,0.0
+host_neighbourhood_Williamsburg,0.0
+host_neighbourhood_Weinland Park,0.0
+host_neighbourhood_Windsor Terrace,0.0
+host_neighbourhood_Windy Hill,0.0
+host_neighbourhood_Woodhaven,0.0
+host_neighbourhood_Woodside,0.0
+host_neighbourhood_Van Nest,0.0
+host_neighbourhood_Venice,0.0
+host_neighbourhood_Victoria Island,0.0
+host_neighbourhood_Vila Buarque,0.0
+host_neighbourhood_Ville-Marie,0.0
+host_neighbourhood_Vineyard Haven,0.0
+host_neighbourhood_Waikiki,0.0
+host_neighbourhood_Wakefield,0.0
+host_neighbourhood_Washington Heights,0.0
+host_neighbourhood_Windom Park,0.0
+host_neighbourhood_Echo Park,0.0
+host_neighbourhood_Edenwald,0.0
+host_neighbourhood_Edgewater,0.0
+host_neighbourhood_Edgewood,0.0
+host_neighbourhood_Elm Park,0.0
+host_neighbourhood_Elmhurst,0.0
+host_neighbourhood_Eltingville,0.0
+host_neighbourhood_Far Rockaway,0.0
+host_neighbourhood_Fieldston,0.0
+host_neighbourhood_Financial District,0.0
+host_neighbourhood_Ditmars Steinway,0.0
+host_neighbourhood_Dobson Ranch,0.0
+host_neighbourhood_Morningside Heights,0.0
+host_neighbourhood_Downtown,0.0
+host_neighbourhood_Downtown Austin,0.0
+host_neighbourhood_Downtown Brooklyn,0.0
+host_neighbourhood_Downtown Los Angeles,0.0
+host_neighbourhood_Downtown Miami,0.0
+host_neighbourhood_Downtown North,0.0
+host_neighbourhood_Dumbo,0.0
+host_neighbourhood_Dyker Heights,0.0
+host_neighbourhood_East Bronx,0.0
+host_neighbourhood_East Durham,0.0
+host_neighbourhood_East Elmhurst,0.0
+host_neighbourhood_East Flatbush,0.0
+host_neighbourhood_Columbia Street Waterfront District,0.0
+host_neighbourhood_Dongan Hills,0.0
+host_neighbourhood_Briarwood,0.0
+host_neighbourhood_Brickell,0.0
+host_neighbourhood_Bridge Plaza,0.0
+host_neighbourhood_Bridgeport,0.0
+host_neighbourhood_Brighton Beach,0.0
+host_neighbourhood_Bronxdale,0.0
+host_neighbourhood_Brooklyn,0.0
+host_neighbourhood_Annadale,0.0
+host_neighbourhood_Flatiron District,0.0
+host_neighbourhood_Flatlands,0.0
+host_neighbourhood_Flushing,0.0
+host_neighbourhood_Fordham,0.0
+host_neighbourhood_Eastchester,0.0
+host_neighbourhood_Fordham Manor,0.0
+host_neighbourhood_Forest Hill,0.0
+host_neighbourhood_Forest Hills,0.0
+host_neighbourhood_Fort Greene,0.0
+host_neighbourhood_Fort Hamilton,0.0
+host_neighbourhood_French Quarter,0.0
+host_neighbourhood_Frenchman's Bay,0.0
+host_neighbourhood_Fresh Meadows,0.0
+host_neighbourhood_Friendly Hills,0.0
+host_neighbourhood_East Harlem,0.0
+host_neighbourhood_East New York,0.0
+host_neighbourhood_East Village,0.0
+host_neighbourhood_East Williamsburg,0.0
+host_neighbourhood_Fordham Heights,0.0
+host_neighbourhood_Columbia Street Waterfront,0.0
+host_neighbourhood_Brooklyn Heights,0.0
+host_neighbourhood_Brooklyn Navy Yard,0.0
+host_neighbourhood_Brownsville,0.0
+host_neighbourhood_Bulls Head,0.0
+host_neighbourhood_Bushwick,0.0
+property_type_Shared room in serviced apartment,0.0
+host_neighbourhood_Cambria Heights,0.0
+host_neighbourhood_Canarsie,0.0
+host_neighbourhood_Cannes,0.0
+host_neighbourhood_Canton Valley,0.0
+host_neighbourhood_Carroll Gardens,0.0
+host_neighbourhood_Communications Hill,0.0
+host_neighbourhood_Castropol,0.0
+host_neighbourhood_Center City West,0.0
+host_neighbourhood_Belle Harbor,0.0
+property_type_Shared room in bed and breakfast,0.0
+property_type_Shared room in guest suite,0.0
+property_type_Shared room in guesthouse,0.0
+property_type_Shared room in home,0.0
+property_type_Shared room in loft,0.0
+host_neighbourhood_Ala Moana,0.0
+property_type_Tiny home,0.0
+property_type_Private room in home,0.0
+property_type_Room in serviced apartment,0.0
+property_type_Shared room in rental unit,0.0
+host_neighbourhood_Castleton Corners,0.0
+host_neighbourhood_Concord,0.0
+host_neighbourhood_Concourse,0.0
+host_neighbourhood_Concourse Village,0.0
+host_neighbourhood_Coney Island,0.0
+host_neighbourhood_Coral Way,0.0
+host_neighbourhood_Corkscrew,0.0
+host_neighbourhood_Corky Row Historic District,0.0
+host_neighbourhood_Corona,0.0
+host_neighbourhood_Cote-des-Neiges,0.0
+host_neighbourhood_Cream Ridge,0.0
+host_neighbourhood_Crown Heights,0.0
+host_neighbourhood_Cypress Hills,0.0
+host_neighbourhood_College Point,0.0
+host_neighbourhood_Ditmars / Steinway,0.0
+host_neighbourhood_Central City,0.0
+host_neighbourhood_Central LA,0.0
+host_neighbourhood_Central Ward,0.0
+host_neighbourhood_Chinatown,0.0
+host_neighbourhood_City Island,0.0
+host_neighbourhood_Claremont,0.0
+host_neighbourhood_Clarksville,0.0
+host_neighbourhood_Clason Point,0.0
+host_neighbourhood_Clifton,0.0
+host_neighbourhood_Clinton Hill,0.0
+host_neighbourhood_Cobble Hill,0.0
+"host_neighbourhood_College Park, MD",0.0
+host_neighbourhood_DUMBO,0.0
+host_neighbourhood_Lower East Side,0.0
+host_neighbourhood_Lower Haight,0.0
+host_neighbourhood_Lyon Hoag,0.0
+host_neighbourhood_Madison Center,0.0
+host_neighbourhood_Manchester Center,0.0
+host_neighbourhood_Manhattan Beach,0.0
+host_neighbourhood_Manor Heights,0.0
+host_neighbourhood_Mapleton,0.0
+host_neighbourhood_Mar Vista,0.0
+host_neighbourhood_Marble Hill,0.0
+host_neighbourhood_Marine Park,0.0
+host_neighbourhood_Mariners Harbor,0.0
+host_neighbourhood_Borough Park,0.0
+host_neighbourhood_Maspeth,0.0
+host_neighbourhood_McGinley Square,0.0
+host_neighbourhood_Meadowvale,0.0
+host_neighbourhood_La Jolla,0.0
+host_neighbourhood_Laconia,0.0
+host_neighbourhood_Las Lomas I,0.0
+host_neighbourhood_Laurelton,0.0
+host_neighbourhood_Leblon,0.0
+host_neighbourhood_Lefferts Garden,0.0
+host_neighbourhood_Lefferts Manor Historic District,0.0
+host_neighbourhood_Lighthouse HIll,0.0
+host_neighbourhood_Lighthouse Hill,0.0
+host_neighbourhood_Lindenwood,0.0
+host_neighbourhood_Marlton,0.0
+host_neighbourhood_Monterey,0.0
+host_neighbourhood_Morningside,0.0
+host_neighbourhood_Alexandria West,0.0
+host_neighbourhood_Morris Heights,0.0
+host_neighbourhood_Morris Park,0.0
+host_neighbourhood_Morrisania,0.0
+host_neighbourhood_Mott Haven,0.0
+host_neighbourhood_Mount Eden,0.0
+host_neighbourhood_Napili/Honokowai,0.0
+host_neighbourhood_Naples Park,0.0
+host_neighbourhood_New Brighton,0.0
+host_neighbourhood_New Dorp Beach,0.0
+host_neighbourhood_Monfort Heights East,0.0
+host_neighbourhood_New Springville,0.0
+host_neighbourhood_Noho,0.0
+host_neighbourhood_Meatpacking District,0.0
+host_neighbourhood_Melrose,0.0
+host_neighbourhood_Mid Island,0.0
+host_neighbourhood_Mid-Wilshire,0.0
+host_neighbourhood_Middle Village,0.0
+host_neighbourhood_Midland Beach,0.0
+host_neighbourhood_Midtown Atlanta,0.0
+host_neighbourhood_Midwood,0.0
+host_neighbourhood_Mill Basin,0.0
+host_neighbourhood_Milwood,0.0
+host_neighbourhood_Mission District,0.0
+host_neighbourhood_New Orleans East,0.0
+host_neighbourhood_Highland Park,0.0
+host_neighbourhood_Highlands,0.0
+host_neighbourhood_Hillcrest,0.0
+host_neighbourhood_Hollis,0.0
+host_neighbourhood_Hollywood Hills West,0.0
+host_neighbourhood_Homecrest,0.0
+host_neighbourhood_Howard Beach,0.0
+host_neighbourhood_Hudson Square,0.0
+host_neighbourhood_Frydendal,0.0
+host_neighbourhood_Garden Hills/Buckhead Village/Peachtree Park,0.0
+host_neighbourhood_Gerritsen Beach,0.0
+host_neighbourhood_Glen Park,0.0
+host_neighbourhood_Little Caribbean,0.0
+host_neighbourhood_Graniteville,0.0
+host_neighbourhood_Gravesend,0.0
+host_neighbourhood_Grays Ferry,0.0
+host_neighbourhood_Great Kills,0.0
+host_neighbourhood_Greenville,0.0
+host_neighbourhood_Greenwich Village,0.0
+host_neighbourhood_Flatbush,0.0
+host_neighbourhood_Belmont,0.0
+host_neighbourhood_Benning Ridge,0.0
+host_neighbourhood_Bensonhurst,0.0
+host_neighbourhood_Bergen Beach,0.0
+host_neighbourhood_Bergen-Lafayette,0.0
+host_neighbourhood_Bocagrande,0.0
+host_neighbourhood_Grandview Heights,0.0
+host_neighbourhood_Little Haiti,0.0
+host_neighbourhood_Little Havana,0.0
+host_neighbourhood_Little Italy,0.0
+host_neighbourhood_Long Island City,0.0
+host_neighbourhood_Longwood,0.0
+host_neighbourhood_Hunts Point,0.0
+host_neighbourhood_Industrial Section,0.0
+host_neighbourhood_Inglewood-Finn Hill,0.0
+host_neighbourhood_Inwood,0.0
+host_neighbourhood_Jackson Heights,0.0
+host_neighbourhood_Jamaica,0.0
+host_neighbourhood_Jeffersonville,0.0
+host_neighbourhood_Highbridge,0.0
+host_neighbourhood_Joá,0.0
+host_neighbourhood_Kensington,0.0
+host_neighbourhood_Kew Garden Hills,0.0
+host_neighbourhood_Kingsbridge,0.0
+host_neighbourhood_Kingsbridge Heights,0.0
+host_neighbourhood_Kips Bay,0.0
+host_neighbourhood_La Concordia,0.0
+host_neighbourhood_Greenwood Heights,0.0
+host_neighbourhood_Grymes Hill,0.0
+host_neighbourhood_Guilford Hills,0.0
+host_neighbourhood_Hamilton Heights,0.0
+host_neighbourhood_Harlem,0.0
+host_neighbourhood_Hell's Kitchen,0.0
+host_neighbourhood_Journal Square,0.0

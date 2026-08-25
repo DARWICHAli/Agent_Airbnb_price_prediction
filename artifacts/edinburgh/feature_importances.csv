@@ -1,21 +1,117 @@
 ,0
-4,0.2573099694025614
-45,0.22068347821716772
-5,0.1892758757020539
-16,0.12842748928344214
-37,0.052219597072369
-18,0.02131713278516338
-15,0.01596031228296864
-3,0.015930330283989602
-17,0.01133348159585799
-8,0.011209914032808136
-14,0.010659483407256372
-22,0.010076616301937173
-21,0.0069330226773222665
-6,0.0067361190265152904
-9,0.006361802314281476
-12,0.0052153723740391645
-0,0.004483917796540509
-7,0.004340875756530074
-11,0.0037408068154493527
-10,0.0031725429889106023
+property_type_Private room in townhouse,0.08337356
+host_neighbourhood_New Town,0.07830126
+host_neighbourhood_Cannonmills,0.07099064
+bedrooms,0.063140765
+host_neighbourhood_Fasach,0.056635782
+host_neighbourhood_Laulerie,0.041647963
+accommodates,0.036514126
+availability_90,0.034033716
+bathrooms,0.03401918
+host_listings_count,0.028007688
+property_type_Shared room in hostel,0.026713148
+host_neighbourhood_Old Town,0.025668656
+room_type_Private room,0.025499618
+room_type_Entire home/apt,0.024764232
+property_type_Private room in rental unit,0.019958202
+host_neighbourhood_nan,0.016668169
+host_total_listings_count,0.015286342
+availability_30,0.014454718
+reviews_per_month,0.014016672
+availability_60,0.013831793
+host_response_time_nan,0.013456039
+host_is_superhost,0.012159533
+property_type_Entire cottage,0.011852789
+host_response_rate,0.010763748
+beds,0.010467434
+review_scores_rating,0.009923598
+availability_365,0.009885053
+host_response_time_within an hour,0.009669247
+property_type_Entire rental unit,0.009242903
+property_type_Entire townhouse,0.00880467
+host_months_since,0.008781725
+longitude,0.008526171
+host_response_time_within a few hours,0.008196203
+maximum_nights,0.007990171
+host_neighbourhood_Marchmont,0.007914297
+property_type_Private room in home,0.0073452825
+number_of_reviews,0.007159521
+latitude,0.0071075587
+instant_bookable,0.006828021
+host_response_time_within a day,0.006115689
+room_type_Shared room,0.0060117035
+minimum_nights,0.0056575793
+property_type_Entire serviced apartment,0.005512294
+host_neighbourhood_Blue Anchor,0.005222826
+property_type_Room in aparthotel,0.0048735454
+host_acceptance_rate,0.0048439307
+property_type_Private room in condo,0.004011732
+property_type_Entire villa,0.0038420525
+host_neighbourhood_Haymarket,0.0037984732
+property_type_Room in hostel,0.0036084447
+property_type_Room in hotel,0.0035415709
+host_neighbourhood_Southside,0.0032816378
+property_type_Entire condo,0.0031964774
+room_type_Hotel room,0.0028780205
+host_response_time_a few days or more,0.0027935856
+host_neighbourhood_South Kensington,0.0026479834
+host_neighbourhood_Forenaght,0.0023094264
+property_type_Entire home,0.0022247205
+property_type_Castle,0.0020358786
+host_neighbourhood_Leith,0.0020227928
+property_type_Shipping container,0.0019321992
+property_type_Room in boutique hotel,0.0017199009
+host_neighbourhood_Tollcross,0.001640239
+property_type_Entire guesthouse,0.0016258004
+host_neighbourhood_West End,0.0013008373
+property_type_Tower,0.0011449159
+property_type_Entire bungalow,0.0011364775
+property_type_Entire cabin,0.00096243655
+property_type_Camper/RV,0.00092630275
+host_neighbourhood_Ballinbranhig,0.0008900739
+host_neighbourhood_Morningside,0.00084912404
+property_type_Private room in hostel,0.00082931685
+property_type_Private room in bed and breakfast,0.0008082834
+host_neighbourhood_Ranelagh,0.0007905263
+property_type_Private room in bungalow,0.00073562685
+host_neighbourhood_Rathmines,0.00062265573
+property_type_Entire guest suite,0.0005449393
+property_type_Entire loft,0.00052408193
+host_neighbourhood_Portobello,0.00037478367
+host_neighbourhood_Stockbridge,0.0002831221
+property_type_Private room in guesthouse,0.0002158467
+host_neighbourhood_Dubai Marina,0.00011199025
+host_neighbourhood_Ballyconnell,0.0
+host_neighbourhood_Bastille,0.0
+host_neighbourhood_Norwood,0.0
+host_neighbourhood_Newington,0.0
+host_neighbourhood_Isle of Dogs,0.0
+host_neighbourhood_LB of Haringey,0.0
+host_neighbourhood_Flamingo Park,0.0
+host_neighbourhood_Chalk Farm,0.0
+host_neighbourhood_Bethnal Green,0.0
+host_neighbourhood_Bruntsfield,0.0
+host_neighbourhood_Belsize Park,0.0
+host_neighbourhood_Battersea,0.0
+host_neighbourhood_Pimlico,0.0
+host_neighbourhood_Quaid Block,0.0
+host_neighbourhood_Vallauris,0.0
+host_neighbourhood_Trebursye,0.0
+host_neighbourhood_Tatranská Polianka,0.0
+property_type_Boat,0.0
+property_type_Farm stay,0.0
+property_type_Entire vacation home,0.0
+property_type_Entire place,0.0
+property_type_Private room,0.0
+property_type_Hut,0.0
+property_type_Private room in casa particular,0.0
+property_type_Private room in cottage,0.0
+property_type_Private room in farm stay,0.0
+property_type_Private room in vacation home,0.0
+property_type_Private room in loft,0.0
+property_type_Private room in guest suite,0.0
+property_type_Private room in villa,0.0
+property_type_Shared room in hotel,0.0
+property_type_Shared room in bungalow,0.0
+property_type_Tiny home,0.0
+property_type_Tent,0.0

@@ -2,7 +2,7 @@
 seed: 42
 city: paris
 data:
-  base_url: "https://insideairbnb.com/get-the-data.html"
+  base_url: "https://insideairbnb.com/get-the-data/"
   raw_dir: "data/raw"
   processed_dir: "data/processed"
   required_columns:
@@ -44,6 +44,8 @@ split:
 preprocessing:
   price_col: price
   price_currency: "USD"  # informational
+  # clip extreme prices above this quantile (computed on the full cleaned data)
+  price_clip_quantile: 0.99
   fill_numeric: "median"
   fill_categorical: "mode"
 training:
@@ -60,6 +62,16 @@ training:
     random_state: 42
   tabpfn:
     use_tabpfn: true
+    # TabPFN scales quadratically with n; cap the training sample used to fit it.
+    max_train_samples: 4096
+  tuning:
+    enabled: true
+    n_iter: 4
+    cv: 3
+    scoring: "neg_root_mean_squared_error"
+    # tune on a subsample of the train set, then refit on the full train set
+    max_samples: 10000
+    random_state: 42
 experiment:
   mlflow_tracking_uri: "sqlite:///mlflow.db"
   experiment_name: "airbnb_price"
